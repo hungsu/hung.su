@@ -1,5 +1,5 @@
-<a href="https://hung.su/">
-    <img src="https://raw.githubusercontent.com/hungsu/hung.su-2018/master/images/logo--black.svg" alt="Hung-Su logo" title="Hung-Su" align="right" height="60" />
+<a href="http://hung.su/">
+    <img src="https://raw.githubusercontent.com/hungsu/hung.su-2018/master/images/logo--black.png" alt="Hung-Su logo" title="Hung-Su" align="right" height="60" />
 </a>
 
 # My HTML portfolio, or personal website
