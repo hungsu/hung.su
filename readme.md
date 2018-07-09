@@ -4,6 +4,8 @@
 
 # My HTML portfolio, or personal website
 
+[ ![Codeship Status for hungsu/hung.su-2018](https://app.codeship.com/projects/061b9b00-6499-0136-9075-32f9241b3bc4/status?branch=master)](https://app.codeship.com/projects/297107)
+
 A curated page of my best work and working methodology
 
 * [Methodology](#methodology)
