@@ -6,6 +6,12 @@
 
 A curated page of my best work and working methodology
 
+* [Methodology](#methodology)
+* [Deployment and hosting](#deployment-and-hosting)
+* [Goals and metrics](#Goals-and-metrics)
+
+## Methodology
+
 This project uses a Lean, document driven methodology. That is, no assets will be created aside from what will ultimately be used in the final product. This means:
 
 * No separate project tracker
@@ -14,7 +20,7 @@ This project uses a Lean, document driven methodology. That is, no assets will b
 * All graphic source files (Icons, photos) will be saved here
 
 ## Deployment and hosting
-This project will use Continuous Delivery. That is, any commits will automatically be deployed to [hung.su](http://hung.su) using [Codeship](https://app.codeship.com/hungsu).
+This project will use Continuous Delivery. That is, any commits will automatically be deployed to [hung.su](http://hung.su) using [Codeship](https://app.codeship.com/hungsu). The project will be hosted on a private VPS running NGINX so that we have HTTPS, HTTP2
 
 ## Goals and metrics
 In approximate order of importance
@@ -45,6 +51,7 @@ In approximate order of importance
 	* Android Chrome
 	* iPhone Safari
 	* iPhone Chrome
+* Automatic formatting with https://github.com/nrwl/precise-commits
 
 # Inspiration
 * http://renvoye.com/
