@@ -1,0 +1,14 @@
+{
+	"name": "hung.su-2018",
+	"version": "0.0.1",
+	"description": "Hung-Su's portfolio for 2018",
+	"main": "index.js",
+	"scripts": {
+		"test": "speedline Profile-20180708T220505.json"
+	},
+	"author": "",
+	"license": "UNLICENSED",
+	"devDependencies": {
+		"speedline": "^1.3.3"
+	}
+}
