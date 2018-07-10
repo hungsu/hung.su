@@ -5,6 +5,8 @@
 # My HTML portfolio, or personal website
 
 [ ![Codeship Status for hungsu/hung.su-2018](https://app.codeship.com/projects/061b9b00-6499-0136-9075-32f9241b3bc4/status?branch=master)](https://app.codeship.com/projects/297107)
+[![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/HungSu)
+![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m780675982-18212a6f5dfd729a0884579a.svg)
 
 A curated page of my best work and working methodology
 
@@ -55,6 +57,13 @@ In approximate order of importance
 	* iPhone Chrome
 * Automatic formatting with https://github.com/nrwl/precise-commits
 
+# Style
+* Light and dark theme?
+* Use IDE color scheme? https://news.ycombinator.com/item?id=17485706
+	* http://ethanschoonover.com/solarized#features
+	* https://github.com/morhetz/gruvbox
+	* https://github.com/jacoborus/tender.vim
+
 # Inspiration
 * http://renvoye.com/
 	+ Cute animations - notably the rooster, and pen
@@ -63,3 +72,4 @@ In approximate order of importance
 	- Animations feel slow
 	- Scrolling feels slow
 * https://brutalist-web.design/
+* Timeless design https://www.imaginarycloud.com/blog/timeless-classic-ui-design/amp/
