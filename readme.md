@@ -1,13 +1,19 @@
-<a href="http://hung.su/">
-    <img src="https://raw.githubusercontent.com/hungsu/hung.su-2018/master/images/logo--black.png" alt="Hung-Su logo" title="Hung-Su" align="right" height="60" />
-</a>
-
-# My HTML portfolio, or personal website
-
-[ ![Codeship Status for hungsu/hung.su-2018](https://app.codeship.com/projects/061b9b00-6499-0136-9075-32f9241b3bc4/status?branch=master)](https://app.codeship.com/projects/297107)
-[![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/HungSu)
-![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m780675982-18212a6f5dfd729a0884579a.svg)
-
+<p align="center">
+    <a href="http://hung.su/">
+		<img src="https://raw.githubusercontent.com/hungsu/hung.su-2018/master/images/logo--black.png" alt="Hung-Su logo" title="Hung-Su" height="120" />
+	</a>
+</p>
+<p align="center">
+	<a href="https://app.codeship.com/projects/297107">
+		<img src="https://app.codeship.com/projects/061b9b00-6499-0136-9075-32f9241b3bc4/status?branch=master">
+	</a>
+	<a href="https://twitter.com/HungSu">
+		<img src="https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow">
+	</a>
+	<a href="https://app.codeship.com/projects/297107">
+		<img alt="Uptime Robot ratio (30 days)" src="https://img.shields.io/uptimerobot/ratio/m780675982-18212a6f5dfd729a0884579a.svg">
+	</a>
+</p>
 A curated page of my best work and working methodology
 
 * [Methodology](#methodology)
