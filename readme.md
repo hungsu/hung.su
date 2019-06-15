@@ -35,10 +35,8 @@ This project will use Continuous Delivery. That is, any commits will automatical
 ## Goals and metrics
 In approximate order of importance
 * Compel people with UI job opportunities to email me about them
-* Be visually pleasing by 2018 standards
-	* Instagram [#webdesign](https://www.instagram.com/explore/tags/webdesign/) [#ui](https://www.instagram.com/explore/tags/ui/)
-	* Facebook
-	* Reddit
+* Be visually pleasing
+	* If a screenshot were posted to Instagram, it should look like it belongs [#webdesign](https://www.instagram.com/explore/tags/webdesign/) [#ui](https://www.instagram.com/explore/tags/ui/)
 * Be fast and lightweight
 	* Speedindex. This repository should automatically run tests against WebPageTest and maintain a speedindex under 1000
 	* https://github.com/ai/size-limit
