@@ -60,7 +60,6 @@ In approximate order of importance
 	* Mac Firefox
 	* Android Chrome
 	* iPhone Safari
-	* iPhone Chrome
 * Automatic formatting with https://github.com/nrwl/precise-commits
 
 # Style
