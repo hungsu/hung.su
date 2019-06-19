@@ -42,6 +42,8 @@ In approximate order of importance
 	* Speedindex. This repository should automatically run tests against WebPageTest and maintain a speedindex under 1000
 	* https://github.com/ai/size-limit
 * Be accessible
+	* To keyboard only users
+	* To low vision users
 
 ## Technology
 
@@ -77,4 +79,3 @@ In approximate order of importance
 	- Scrolling feels slow
 * https://brutalist-web.design/
 * Timeless design https://www.imaginarycloud.com/blog/timeless-classic-ui-design/amp/
-
