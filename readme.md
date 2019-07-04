@@ -33,7 +33,25 @@ This project uses a Lean production methodology. That is, production of assets w
 The project is hosted on a single private VPS running NGINX. It has a [verified SSL Certificate](https://www.ssllabs.com/ssltest/analyze.html?d=hung.su) from Lets Encrypt, obtained using [Certbot](https://certbot.eff.org/lets-encrypt/ubuntuxenial-nginx). Being served over HTTPS allows HTTP2, for concurrent asset downloading. The host uptime is shown in a badge at the top of this readme.
 
 ## Goals and metrics
-In approximate order of importance
+
+Things that can be verified automatically:
+
+* Be fast and lightweight
+	* Loading should appear to be finished in less than 1 second
+		* Speedindex. This repository should automatically run tests against WebPageTest and maintain a speedindex under 1000
+	* Viewing entire website should consume less than 1MB of cellular data
+	* https://github.com/ai/size-limit
+	
+Things that I verify by hand
+
+* Be accessible
+	* To keyboard only users
+	* to mouse only users
+	* to touch only users
+	* To low vision users
+
+Things that are verified by others
+
 * Be inspiring
 	* If read by someone looking for a HTML/CSS/Javascript developer, they should email me
 		* To measure, this website will advertise a different email address from my own
@@ -42,16 +60,6 @@ In approximate order of importance
 		* [Instagram#webdesign](https://www.instagram.com/explore/tags/webdesign/)
 		* [Instagram#ui](https://www.instagram.com/explore/tags/ui/)
 		* [Dribble#webdesign](https://dribbble.com/shots/popular/web-design)
-* Be fast and lightweight
-	* Loading should appear to be finished in less than 1 second
-		* Speedindex. This repository should automatically run tests against WebPageTest and maintain a speedindex under 1000
-	* Viewing entire website should consume less than 1MB of cellular data
-	* https://github.com/ai/size-limit
-* Be accessible
-	* To keyboard only users
-	* to mouse only users
-	* to touch only users
-	* To low vision users
 
 ## Technology
 
