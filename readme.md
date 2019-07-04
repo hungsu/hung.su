@@ -23,23 +23,22 @@ A curated page of my best work and working methodology
 
 ## Methodology
 
-This project uses a Lean, document driven methodology. That is, no assets will be created aside from what will ultimately be used in the final product. This means:
+This project uses a Lean production methodology. That is, assets which are not served in the final product must be minimised, to focus on assets will be. This means:
 
 * No separate project tracker
 * No separate wiki or documentation. All documentation will be in this readme, or in code comments
 * All prototyping/sketched assets will be saved here as part of documentation
 * All graphic source files (Icons, photos) will be saved here
+* Automated tests must be written, but kept to a minimum
 
 ## Hosting
-The project will be hosted on a private VPS running NGINX. It has a [verified SSL Certificate](https://www.ssllabs.com/ssltest/analyze.html?d=hung.su) from Lets Encrypt, obtained using [Certbot](https://certbot.eff.org/lets-encrypt/ubuntuxenial-nginx). Being served over HTTPS allows HTTP2, for concurrent asset downloading.
-
-## Deployment
-This project will use Continuous Delivery. That is, any commits will automatically be deployed to [hung.su](https://hung.su) using [Codeship](https://app.codeship.com/hungsu). 
+The project is hosted on a single private VPS running NGINX. It has a [verified SSL Certificate](https://www.ssllabs.com/ssltest/analyze.html?d=hung.su) from Lets Encrypt, obtained using [Certbot](https://certbot.eff.org/lets-encrypt/ubuntuxenial-nginx). Being served over HTTPS allows HTTP2, for concurrent asset downloading. The host uptime is shown in a badge at the top of this readme.
 
 ## Goals and metrics
 In approximate order of importance
 * Be inspiring
 	* If read by someone looking for UI development, they should feel compelled to email me
+		* To measure, this website will advertise a different email address from my own
 * Be visually pleasing
 	* If a screenshot were posted online, it should look like it belongs [Instagram#webdesign](https://www.instagram.com/explore/tags/webdesign/) [Instagram#ui](https://www.instagram.com/explore/tags/ui/) [Dribble#webdesign](https://dribbble.com/shots/popular/web-design)
 * Be fast and lightweight
@@ -87,3 +86,8 @@ In approximate order of importance
 	- Scrolling feels slow
 * https://brutalist-web.design/
 * Timeless design https://www.imaginarycloud.com/blog/timeless-classic-ui-design/amp/
+
+
+## Deployment
+This project will use Continuous Delivery. That is, any commits will automatically be deployed to [hung.su](https://hung.su) using [Codeship](https://app.codeship.com/hungsu). 
+
