@@ -18,8 +18,8 @@ A curated page of my best work and working methodology
 
 * [Methodology](#methodology)
 * [Hosting](#hosting)
-* [Deployment](#deployment)
 * [Goals and metrics](#Goals-and-metrics)
+* [Deployment](#deployment)
 
 ## Methodology
 
@@ -50,6 +50,14 @@ Things that I verify by hand
 	* to touch only users
 	* To low vision users
 
+* Must look good on these browsers:
+	* Win Chrome
+	* Win Firefox
+	* Mac Chrome
+	* Mac Firefox
+	* Android Chrome
+	* iPhone Safari
+
 Things that are verified by others
 
 * Be inspiring
@@ -70,13 +78,6 @@ Things that are verified by others
 * If I must use first screen image, try this https://css-tricks.com/the-blur-up-technique-for-loading-background-images/
 * Must have unobtrusive animation
 	* https://popmotion.io/
-* Must look good on these browsers:
-	* Win Chrome
-	* Win Firefox
-	* Mac Chrome
-	* Mac Firefox
-	* Android Chrome
-	* iPhone Safari
 * Automatic formatting with https://github.com/nrwl/precise-commits
 
 # Style
@@ -93,7 +94,6 @@ Things that are verified by others
 	+ "My Impact" is great copywriting
 	- Animations feel slow
 	- Scrolling feels slow
-* https://brutalist-web.design/
 * Timeless design https://www.imaginarycloud.com/blog/timeless-classic-ui-design/amp/
 
 
