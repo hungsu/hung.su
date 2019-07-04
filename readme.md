@@ -36,6 +36,7 @@ The project is hosted on a single private VPS running NGINX. It has a [verified 
 
 Things that can be verified automatically:
 
+* Have 99%+ uptime
 * Be fast and lightweight
 	* Loading should appear to be finished in less than 1 second
 		* Speedindex. This repository should automatically run tests against WebPageTest and maintain a speedindex under 1000
@@ -57,6 +58,8 @@ Things that I verify by hand
 	* Mac Firefox
 	* Android Chrome
 	* iPhone Safari
+
+* Contain current information about my working career, that expands on what is in my resume
 
 Things that are verified by others
 
