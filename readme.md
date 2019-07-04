@@ -31,7 +31,7 @@ This project uses a Lean, document driven methodology. That is, no assets will b
 * All graphic source files (Icons, photos) will be saved here
 
 ## Hosting
-The project will be hosted on a private VPS running NGINX. It has a [verified SSL Certificate](https://www.ssllabs.com/ssltest/analyze.html?d=hung.su) from Lets Encrypt, obtained using [Certbot](https://certbot.eff.org/lets-encrypt/ubuntuxenial-nginx)
+The project will be hosted on a private VPS running NGINX. It has a [verified SSL Certificate](https://www.ssllabs.com/ssltest/analyze.html?d=hung.su) from Lets Encrypt, obtained using [Certbot](https://certbot.eff.org/lets-encrypt/ubuntuxenial-nginx). Being served over HTTPS allows HTTP2, for concurrent asset downloading.
 
 ## Deployment
 This project will use Continuous Delivery. That is, any commits will automatically be deployed to [hung.su](https://hung.su) using [Codeship](https://app.codeship.com/hungsu). 
