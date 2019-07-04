@@ -37,7 +37,7 @@ The project is hosted on a single private VPS running NGINX. It has a [verified 
 ## Goals and metrics
 In approximate order of importance
 * Be inspiring
-	* If read by someone looking for UI development, they should feel compelled to email me
+	* If read by someone looking for a HTML/CSS/Javascript developer, they should email me
 		* To measure, this website will advertise a different email address from my own
 * Be visually pleasing
 	* If a screenshot were posted online, it should look like it belongs [Instagram#webdesign](https://www.instagram.com/explore/tags/webdesign/) [Instagram#ui](https://www.instagram.com/explore/tags/ui/) [Dribble#webdesign](https://dribbble.com/shots/popular/web-design)
