@@ -23,12 +23,10 @@ A curated page of my best work and working methodology
 
 ## Methodology
 
-This project uses a Lean production methodology. That is, assets which are not served in the final product must be minimised, to focus on assets will be. This means:
+This project uses a Lean production methodology. That is, production of assets which are not served in the final product must be minimised, to focus on assets which will be. This means:
 
 * No separate project tracker
 * No separate wiki or documentation. All documentation will be in this readme, or in code comments
-* All prototyping/sketched assets will be saved here as part of documentation
-* All graphic source files (Icons, photos) will be saved here
 * Automated tests must be written, but kept to a minimum
 
 ## Hosting
@@ -40,7 +38,10 @@ In approximate order of importance
 	* If read by someone looking for a HTML/CSS/Javascript developer, they should email me
 		* To measure, this website will advertise a different email address from my own
 * Be visually pleasing
-	* If a screenshot were posted online, it should look like it belongs [Instagram#webdesign](https://www.instagram.com/explore/tags/webdesign/) [Instagram#ui](https://www.instagram.com/explore/tags/ui/) [Dribble#webdesign](https://dribbble.com/shots/popular/web-design)
+	* If a screenshot were posted on the following social media, it should look like it belongs
+		* [Instagram#webdesign](https://www.instagram.com/explore/tags/webdesign/)
+		* [Instagram#ui](https://www.instagram.com/explore/tags/ui/)
+		* [Dribble#webdesign](https://dribbble.com/shots/popular/web-design)
 * Be fast and lightweight
 	* Loading should appear to be finished in less than 1 second
 		* Speedindex. This repository should automatically run tests against WebPageTest and maintain a speedindex under 1000
