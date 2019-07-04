@@ -17,7 +17,8 @@
 A curated page of my best work and working methodology
 
 * [Methodology](#methodology)
-* [Deployment and hosting](#deployment-and-hosting)
+* [Hosting](#hosting)
+* [Deployment](#deployment)
 * [Goals and metrics](#Goals-and-metrics)
 
 ## Methodology
@@ -29,8 +30,11 @@ This project uses a Lean, document driven methodology. That is, no assets will b
 * All prototyping/sketched assets will be saved here as part of documentation
 * All graphic source files (Icons, photos) will be saved here
 
-## Deployment and hosting
-This project will use Continuous Delivery. That is, any commits will automatically be deployed to [hung.su](http://hung.su) using [Codeship](https://app.codeship.com/hungsu). The project will be hosted on a private VPS running NGINX so that we have HTTPS, HTTP2
+## Hosting
+The project will be hosted on a private VPS running NGINX. It has a [verified SSL Certificate]((https://www.ssllabs.com/ssltest/analyze.html?d=hung.su)) from Lets Encrypt, obtained using [Certbot](https://certbot.eff.org/lets-encrypt/ubuntuxenial-nginx)
+
+## Deployment
+This project will use Continuous Delivery. That is, any commits will automatically be deployed to [hung.su](https://hung.su) using [Codeship](https://app.codeship.com/hungsu). 
 
 ## Goals and metrics
 In approximate order of importance
