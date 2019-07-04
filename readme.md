@@ -43,10 +43,14 @@ In approximate order of importance
 * Be visually pleasing
 	* If a screenshot were posted online, it should look like it belongs [Instagram#webdesign](https://www.instagram.com/explore/tags/webdesign/) [Instagram#ui](https://www.instagram.com/explore/tags/ui/) [Dribble#webdesign](https://dribbble.com/shots/popular/web-design)
 * Be fast and lightweight
-	* Speedindex. This repository should automatically run tests against WebPageTest and maintain a speedindex under 1000
+	* Loading should appear to be finished in less than 1 second
+		* Speedindex. This repository should automatically run tests against WebPageTest and maintain a speedindex under 1000
+	* Viewing entire website should consume less than 1MB of cellular data
 	* https://github.com/ai/size-limit
 * Be accessible
 	* To keyboard only users
+	* to mouse only users
+	* to touch only users
 	* To low vision users
 
 ## Technology
