@@ -58,6 +58,10 @@ Things that I verify by hand
 	* Mac Firefox
 	* Android Chrome
 	* iPhone Safari
+	
+* Have good metadata. Observe how the Blizzard website has OG image and description
+
+<img src="http://hung.su/og-metadata.png" />
 
 * Contain current information about my working career, that expands on what is in my resume
 
